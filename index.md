@@ -1,4 +1,4 @@
-Hello, I'm Matthew Jiang, a third year Computer Science student at ***UC San Diego***. When I'm not busy programming or doing other school work, I enjoy playing rhythm games, going running, listening to music, and other such hobbies.
+Hello! I'm Matthew, a third year Computer Science student at ***UC San Diego***. When I'm not busy programming or doing other school work, I enjoy playing rhythm games, going running, listening to music, and other such hobbies.
 
 ## I am familiar with:
 - C++
@@ -23,11 +23,11 @@ int main()
 
 Here's the [README](README.md) for this repo using a relative link.
 
-Here's a [section link](https://github.com/mmjiang-ucsd/mmjiang-ucsd.github.io/blob/main/index.md#youve-reached-the-end-of-the-page-hooray) to go to the bottom of this page.
+Here's a [section link](https://github.com/mmjiang-ucsd/mmjiang-ucsd.github.io/blob/main/index.md#youve-reached-the-end-of-the-page-hooray) to go to the bottom of this page. Doesn't really work unless you're on index.md and not on the website.
 
 Here are the screenshots I took for this lab:
-[git by using command line](/screenshots/git-command-line.png)
-[git by using VSCode](/screenshots/git-vscode.png)
+1. [git by using command line](/screenshots/git-command-line.png)
+2. [git by using VSCode](/screenshots/git-vscode.png)
 
 Things I want to do:
 - [ ] Do more personal projects
@@ -39,4 +39,5 @@ Things I want to do:
 #### You've reached the end of the page! Hooray!
 
 Here's a cursed cat.
+
 ![cat](/screenshots/cursedcat.jpg)
