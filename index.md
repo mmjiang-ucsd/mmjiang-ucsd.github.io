@@ -21,9 +21,9 @@ int main()
 }
 ```
 
-Here are the screenshots I took for this lab:
-[image](screenshots/git-command-line.png)
-[image](screenshots/git-vscode.png
+Here are the screenshots I took for this lab using relative links:
+[git by using command line](screenshots/git-command-line.png)
+[git by using VSCode](screenshots/git-vscode.png)
 
 Things I want to do:
 [ ] Do more personal projects
