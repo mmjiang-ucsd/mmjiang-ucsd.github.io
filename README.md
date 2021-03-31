@@ -1,1 +1,1 @@
-# cse101-lab1
+Nothing in this readme besides this link: https://mmjiang-ucsd.github.io/
