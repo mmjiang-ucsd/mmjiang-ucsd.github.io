@@ -8,16 +8,28 @@ Hello, I'm Matthew Jiang, a third year Computer Science student at ***UC San Die
 
 Here's a typing speed [website](https://matthewmjiang.github.io/keymasher/) that I made a while back.
 
-QUOTING TEXT
+Here's some quoted text:
+> Hello world!
 
-QUOTING CODE
+Here's a basic program in C++:
+```
+#include <iostream>
+int main()
+{
+  std::cout << "Hello world!" << std::endl;
+  return 0;
+}
+```
 
-SECTION LINKS
-
+Here
 RELATIVE LINKS
 
 TASK LIST
-
+Things I want to do:
+[] Do more personal projects
+[] Get more exercise
+[] Sleep better
+[X] ~~play more video games~~
 PICTURE
 
 
