@@ -21,10 +21,11 @@ int main()
 }
 ```
 
-Here's the [README](README.md) for this repo.
+Here's the [README](README.md) for this repo using a relative link.
 
 Here's a [section link](https://github.com/mmjiang-ucsd/mmjiang-ucsd.github.io/blob/main/index.md#youve-reached-the-end-of-the-page-hooray) to go to the bottom of this page.
-Here are the screenshots I took for this lab using relative links:
+
+Here are the screenshots I took for this lab:
 [git by using command line](/screenshots/git-command-line.png)
 [git by using VSCode](/screenshots/git-vscode.png)
 
@@ -36,3 +37,6 @@ Things I want to do:
 
 
 #### You've reached the end of the page! Hooray!
+
+Here's a cursed cat.
+![cat](/screenshots/cursedcat.jpg)
