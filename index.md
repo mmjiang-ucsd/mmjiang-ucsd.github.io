@@ -21,15 +21,14 @@ int main()
 }
 ```
 
-Here
-RELATIVE LINKS
+Here are the screenshots I took for this lab:
+[image](screenshots/git-command-line.png)
+[image](screenshots/git-vscode.png
 
-TASK LIST
 Things I want to do:
-[] Do more personal projects
-[] Get more exercise
-[] Sleep better
-[X] ~~play more video games~~
-PICTURE
+[ ] Do more personal projects
+[ ] Get more exercise
+[ ] Sleep better
+[x] ~~play more video games~~
 
 
